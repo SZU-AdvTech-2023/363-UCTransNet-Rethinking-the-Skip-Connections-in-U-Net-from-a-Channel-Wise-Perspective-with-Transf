@@ -1,0 +1,9 @@
+@inproceedings{REPO363,
+    author = "Wang, Haonan and Cao, Peng and Wang, Jiaqi and Zaiane, Osmar R",
+    booktitle = "Proceedings of the AAAI conference on artificial intelligence",
+    number = "3",
+    pages = "2441--2449",
+    title = "{UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-Wise Perspective with Transformer}",
+    volume = "36",
+    year = "2022"
+}
